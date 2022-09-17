@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  input.appearance-none::-webkit-calendar-picker-indicator,
+  input.appearance-none::-webkit-inner-spin-button,
+  input.appearance-none::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    background: none;
+    margin: 0;
+  }
+}
