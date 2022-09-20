@@ -15,7 +15,7 @@
 ## Design (by Rocketseat)
 ###  🖥️ Desktop
 <p align="center">
-![chrome-capture-2022-8-20-min](https://user-images.githubusercontent.com/69090857/191318693-f2ce6c21-f216-4663-b600-019a7facced9.png)
+<img src="https://user-images.githubusercontent.com/69090857/191318693-f2ce6c21-f216-4663-b600-019a7facced9.png">
 </p>
 
 ## 🏠 Executar localmente
